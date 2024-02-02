@@ -3,7 +3,7 @@
 <img src="https://github.com/vmartns/materiais/assets/156022058/1a10a031-d935-4f2f-b339-21d0f038e307" width="250px" align="right">
 
 <p align="left"> 
- Confira minha resolução de cem exercícios de algoritmo lançados pela plataforma "curso em vídeo"! A intenção é mostrar minha jornada na área de programação, colocando a mão na massa com lógica de programação, e não há melhor maneira de começar do que com os fantásticos cursos do professor Gustavo Guanabara. 
+ Confira minha resolução de cem exercícios de algoritmo lançados pela plataforma "curso em vídeo". A intenção é mostrar minha jornada na área de programação, colocando a mão na massa com lógica de programação, e não há melhor maneira de começar do que com os fantásticos cursos do professor Gustavo Guanabara. 
 </p>
 <p>
  Vale ressaltar que não me apeguei inteiramente ao que foi ensinado; Decidi adicionar um pouco de criatividade e desenvolver programas de uma forma diferente, sempre respeitando as instruções.
