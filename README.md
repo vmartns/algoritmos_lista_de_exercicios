@@ -10,14 +10,14 @@
 </p>
 <br></br>
 
-# Sobre o processo 🧩
+## Sobre o processo 🧩
 O desenvolvimento de algoritmos em português estruturado (Portugol) foi possível graças ao software VisuAlg, que possui excelente simplicidade para simulação e depuração, facilitando a identificação e correção de erros. Além do VisuAlg, tem também o [Portugol Web Studio](https://dgadelha.github.io/Portugol-Webstudio/), que tem uma dinâmica parecida e eu tive contato com ele na faculdade. Também é excelente para começar com lógica de programação.
 
 ## Próximos Passos 👣
 A ideia para o futuro é criar uma versão semelhante usando o Portugol Studio para entender as diferenças entre as duas ferramentas. No entanto, essa será uma baixa prioridade, pois o foco será alimentar outros aprendizados, incluindo desafios universitários.
 
 
-## Referência 🔗
+### Referências 🔗
 
  - [Plataforma Curso em vídeo](https://www.cursoemvideo.com/)
  - [Lista de exercícios de algoritmos](https://www.cursoemvideo.com/wp-content/uploads/2019/08/exercicios-algoritmos.pdf)
